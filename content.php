@@ -12,11 +12,11 @@ de pandémies, de catastrophes naturelles, d'attentats.  </p>
 		</p>
 		
 		</br>
-		<p>Lien des Git Hub:
+		<p>Lien des GitHub:
 			<ul>
-				<li>git de sites: https://github.com/Laowphis/webndi15.git</li>
-				<li>git de l'appli serveur: https://github.com/Dimitriio/panicAppli.git</li>
-				<li>git de l'appli mobile: htps://github.com/zoski/AndroidPanicButton.git</li>
+				<li> <a href="https://github.com/Laowphis/webndi15.git"> git de sites</a></li>
+				<li> <a href="https://github.com/Dimitriio/panicAppli.git"> git de l'appli serveur</a></li>
+				<li> <a href="htps://github.com/zoski/AndroidPanicButton.git"> git de l'appli mobile</a></li>
 			</ul>
 		</p>
 		
