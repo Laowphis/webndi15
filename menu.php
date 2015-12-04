@@ -12,6 +12,7 @@
         <li class="active"><a href="index.php?page=application">Accueil</a></li>
         <li><a href="index.php?page=contact">Contact</a></li>
         <li class="active"><a href="index.php?page=telechargement">Téléchargement</a></li>
+		<li><a href="Admin/index.php?page=application">Site de Controle</a></li>
     </ul>
 </nav>
 <body>
