@@ -1,4 +1,6 @@
-
+<html>
+<link rel="stylesheet" media="all" href="style.css" />
+<body>
 
 	
 	<div id="content">
@@ -7,6 +9,8 @@
 		<p>Chef d'équipe: Galliere Mathieu</br>
 		collaborateur: Renier Dimitri, Szymanski Cedric, Lazzaro Daniel, Jacob Phillipe, Rat Joris, Alberola Gael, Fernandes Jonathan, Jacquey Axel </br>
 		</p>
-		<p>Site crée pour la nuit de l'info 2015 par l'équipe du XID.</p>
+		<p id="xid">Site crée pour la nuit de l'info 2015 par l'équipe du XID.</p>
 	</div>
 	
+</body>
+</html>
