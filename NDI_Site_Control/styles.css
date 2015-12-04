@@ -1,0 +1,45 @@
+﻿/* HEADER */
+#titleSite{
+	text-align:center;	
+}
+
+.page-header h1{
+	color:white;
+}
+
+.page-header h1 small{
+	color: #CBCBCB;
+}
+
+.page-header{
+	background-color: #0C1424;
+	padding-top: 10px;
+	border-radius: 5px;
+}
+
+/* BODY */
+body{
+	background-image: url('fond-site2.jpg');
+	padding-left: 5px;
+	padding-right: 5px;	
+}
+
+/* DESCRIPTION */
+#description h4{
+	color:white;
+ }
+
+/* 404 */
+#erreur{
+	text-align:center;
+}
+
+/* FOOTER */
+footer {
+	position: relative;
+	bottom:0;
+	width:100%;
+	color:white;
+	text-align: center;
+	font-weight: bold;
+}
