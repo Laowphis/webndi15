@@ -1,9 +1,8 @@
 
 	
 	<div id="content">
-		<ul>
-			<ul><a id="ddlserveur" href="">télécharger serveur</a> </ul>
-			<ul><a id="ddlclient" href="">télécharger client</a> </ul>
+		<ul id="ddlserveur">
+			<li><a href="">télécharger serveur</a> </li>
+			<li><a href="">télécharger client</a> </li>
 		</ul>
 	</div>
-	
