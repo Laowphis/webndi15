@@ -18,7 +18,7 @@ de pandémies, de catastrophes naturelles, d'attentats.  </p>
 			<ul>
 				<li> <a href="https://github.com/Laowphis/webndi15.git"> git de sites</a></li>
 				<li> <a href="https://github.com/Dimitriio/panicAppli.git"> git de l'appli serveur</a></li>
-				<li> <a href="htps://github.com/zoski/AndroidPanicButton.git"> git de l'appli mobile</a></li>
+				<li> <a href="https://github.com/zoski/AndroidPanicButton.git"> git de l'appli mobile</a></li>
 			</ul>
 		</p>
 		
