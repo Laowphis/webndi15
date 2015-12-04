@@ -11,6 +11,8 @@ de pandémies, de catastrophes naturelles, d'attentats.  </p>
 			Si une cinquantaine de personnes envoient une alerte simultanement venant d'un même endroit, les forces de l'ordre pourront être prévenue.
 		</p>
 		
+		<p> video de presentation: <a href="https://www.youtube.com/watch?v=I_9dBDZbVDw">ici</a></p>
+		
 		</br>
 		<p>Lien des GitHub:
 			<ul>
