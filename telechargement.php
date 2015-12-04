@@ -1,4 +1,3 @@
-<body>
 
 	
 	<div id="content">
@@ -8,4 +7,3 @@
 		</ul>
 	</div>
 	
-</body>
