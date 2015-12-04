@@ -11,4 +11,13 @@ de pandémies, de catastrophes naturelles, d'attentats.  </p>
 			Si une cinquantaine de personnes envoient une alerte simultanement venant d'un même endroit, les forces de l'ordre pourront être prévenue.
 		</p>
 		
+		</br>
+		<p>Lien des Git Hub:
+			<ul>
+				<li>git de sites: https://github.com/Laowphis/webndi15.git</li>
+				<li>git de l'appli serveur: https://github.com/Dimitriio/panicAppli.git</li>
+				<li>git de l'appli mobile: htps://github.com/zoski/AndroidPanicButton.git</li>
+			</ul>
+		</p>
+		
 	</div>
